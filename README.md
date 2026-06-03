@@ -32,7 +32,7 @@
 
 iNOTHING collects **zero data**. No analytics, no tracking, no permissions.
 
-📄 [Privacy Policy](https://sherlowked.github.io/iNOTHING/doc/index.html)
+📄 [Privacy Policy](https://sherlowked.github.io/iNOTHING/)
 
 ## 📥 Download
 
