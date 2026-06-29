@@ -9,8 +9,8 @@
 | Module | Status | Description |
 |--------|--------|-------------|
 | 🔢 **iCOUNTING** | ✅ Live | Count through 1000 pages with golden milestones every 100 pages |
-| 🫁 **iBREATHING** | 🔜 Coming Soon | Guided breathing exercises |
-| 👆 **iTAPPING** | 🔜 Coming Soon | Speed tapping challenge |
+| 🔐 **iUNLOCKING** | ✅ Live | Hack 100 vault sequences |
+| 🫁 **iBREATHING** | ✅ Live | Guided breathing exercises |
 | ⏳ **iWAITING** | 🔜 Coming Soon | The art of doing nothing |
 
 ## 🎨 Design
@@ -30,13 +30,13 @@
 
 ## 🔒 Privacy
 
-iNOTHING collects **zero data**. No analytics, no tracking, no permissions.
+iNOTHING does not directly collect any personal data. We use Google AdMob to display advertisements, which may collect standard device identifiers for ad personalization.
 
 📄 [Privacy Policy](https://sherlowked.github.io/iNOTHING/)
 
 ## 📥 Download
 
-Coming soon on **Google Play Store**.
+Available now on **Google Play Store** for testing.
 
 ---
 
