@@ -11,7 +11,7 @@
 | 🔢 **iCOUNTING** | ✅ Live | Count through 1000 pages with golden milestones every 100 pages |
 | 🔐 **iUNLOCKING** | ✅ Live | Hack 100 vault sequences |
 | 🫁 **iBREATHING** | ✅ Live | Guided breathing exercises |
-| ⏳ **iWAITING** | 🔜 Coming Soon | The art of doing nothing |
+| 🎮 **iGAMES** | ✅ Live | Tic-Tac-Toe and more mini-games |
 
 ## 🎨 Design
 
@@ -36,7 +36,7 @@ iNOTHING does not directly collect any personal data. We use Google AdMob to dis
 
 ## 📥 Download
 
-Available now on **Google Play Store** for testing.
+Available now on **Google Play Store** for closed testing.
 
 ---
 
